@@ -1,6 +1,9 @@
 body {
-    font-size: 20px;
-    font-style: ;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  
+     
+    
 }
 
     
@@ -17,13 +20,15 @@ body {
   }
 
   h1 {
-      margin: 0%;
+      text-align: left;
+      margin-top: 10px;
+      margin-bottom: 0;
   }
 
   #sottotitolo {
       margin: 0;
-      
   }
+      
 
   #titoloblu {
       color: #20A9E5;
@@ -31,8 +36,8 @@ body {
 
   .piccolo {
       font-size: 12px;
-     
   }
+     
      
   .grigio {
       color: #808080;
@@ -40,6 +45,8 @@ body {
 
   .immaginitim {
       margin-top: 2%;
+      
+
   }
       
   .evidenziatore {
@@ -53,3 +60,28 @@ body {
   .lineaazz {
       background-color: #B1E5F2;
   }
+
+  .scrittafinale {
+      position: absolute;
+      color: #eee;
+  }
+  .imgfinali {
+      width: 20%;
+  }
+
+ td{
+     width: 30%;
+    
+
+ }
+
+ #tim {
+     width: 650px;
+     height: 500px;
+ }
+
+ #tim2{
+     width: 650px;
+     height: 500px;
+ }
+     
