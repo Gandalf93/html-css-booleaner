@@ -10,7 +10,7 @@ body {
     margin-top: 2%;
   }
 
-  div {
+  .logobackground {
       background-image: url(../img/pattern.png);
       background-color: #4EA0FF;
       background-size: 20%, 50%;
@@ -30,11 +30,18 @@ body {
   }
 
   .piccolo {
-      font-size: 15px;
+      font-size: 12px;
      
   }
      
   .grigio {
       color: lightslategray;
   }
+
+  .immaginitim {
+      margin-top: 2%;
+  }
       
+  .evidenziatore {
+      background-color: yellow;
+  }
