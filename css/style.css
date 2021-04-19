@@ -1,7 +1,8 @@
 body {
-    font-size: 15px;
-    font-family:Georgia, 'Times New Roman', Times, serif
-  
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    
+    
      
     
 }
@@ -23,6 +24,7 @@ body {
       text-align: left;
       margin-top: 10px;
       margin-bottom: 0;
+      
   }
 
   #sottotitolo {
@@ -55,10 +57,14 @@ body {
   
   thead {
       background-color: #20A9E5;
+      color: white;
+      font-weight: bold;
+      
   }
 
   .lineaazz {
       background-color: #B1E5F2;
+      
   }
 
   .scrittafinale {
