@@ -3,7 +3,7 @@ body {
     font-family:'Times New Roman', Times, serif;
 }
 
-    
+   /* header  */
 
 #logo {
     width: 200px;
@@ -20,72 +20,90 @@ body {
       text-align: left;
       margin-top: 10px;
       margin-bottom: 0;
-      
+
   }
-
-
-      
 
   #titoloblu {
       color: #20A9E5;
   }
 
-  .piccolo {
-      font-size: 12px;
-  }
-     
-     
-  .grigio {
-      color: #808080;
-  }
+    /* fine header   */
+
+
+  
+
+ /* main */
 
   .immaginitim {
       margin-top: 2%;
-      
+    }
 
-  }
-      
-  .evidenziatore {
-      background-color: yellow;
-  }
+    .piccolo {
+        font-size: 12px;
+    }
   
-  thead {
-      background-color: #20A9E5;
-      color: white;
-      font-weight: bold;
+    .grigio {
+        color: #808080;
+    }
+  
+    .evidenziatore {
+      background-color: yellow;
+    }
+
+ /* table */
       
-  }
-
-  .lineaazz {
-      background-color: #B1E5F2;
+        table {
+            border-spacing: 0;
+        }
       
-  }
-
-  .scrittafinale {
-      position: absolute;
-      color: #eee;
-  }
-  .imgfinali {
-      width: 20%;
-  }
-
- td{
-     width: 30%;
-    
-
- }
-
- #tim {
-     width: 650px;
-     height: 500px;
- }
-
- #tim2{
-     width: 650px;
-     height: 500px;
- }
+        thead {
+          background-color: #20A9E5;
+          color: white;
+          font-weight: bold;
+        }
+      
+        td{
+            width: 20%;
+           }
+       
+        .col3{
+            width: 60%;
+        }
+       
+        .lineaazz {
+           background-color: #B1E5F2;
+         }
+       
+       
+    /* sezione img finali */
+       
+       .scrittafinale {
+           position: absolute;
+           color: #eee;
+       }
+       .imgfinali {
+           width: 20%;
+       }
+   
+   /* fine main */
+   
      
-    
-    
-     
-    
+  
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
